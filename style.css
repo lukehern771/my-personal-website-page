@@ -1,4 +1,18 @@
 body {
     background: grey;
-    
+    padding: 5px 0;
+  text-align: center;
+  font-size: larger;
+}
+
+img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h1 {
+    padding: 5px 0;
+  text-align: center;
 }
